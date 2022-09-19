@@ -17,4 +17,4 @@ License: MIT
 
 `./EasySAT <cnf_file>`
 
-The standard `.cnf` input format and the output format can be seen in ``
+The standard `.cnf` input format and the output format can be seen [here](http://www.satcompetition.org/2009/format-benchmarks2009.html)
