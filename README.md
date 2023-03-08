@@ -1,12 +1,14 @@
 # EasySAT: A Simple CDCL SAT Solver
 
-Developer: SeedSolver Beijing 
+Developer: Zhihan Chen, Xindi Zhang
 
-Homepage: https://seedsolver.com
+Homepage: https://github.com/shaowei-cai-group/EasySAT
 
-E-Mail: help@seedsolver.com
+E-Mail: zhangxd@ios.ac.cn
 
 License: MIT
+
+Environment: Linux with C++11
 
 ## How to Build
 
